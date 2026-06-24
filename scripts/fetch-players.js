@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const API_KEY = process.env.RIOT_API_KEY;
+const API_KEY = process.env.RIOTAPI;
 const PLATFORM = 'eun1';
 const CLUSTER = 'europe';
 
