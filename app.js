@@ -1,13 +1,3 @@
-// ============================================================
-//  KONFIGURACJA — edytuj tylko tutaj
-// ============================================================
-const PLAYERS = [
-    { gameName: 'lisdexamfetamine', tagLine: '140mg' },
-    { gameName: 'Franz Peter', tagLine: 'koyo' },
-    { gameName: 'head of family', tagLine: 'head' },
-    // dodaj kolejnych graczy w tym samym formacie
-];
-
 const PLATFORM = 'eun1';    // EUNE
 const CLUSTER = 'europe';  // routing cluster dla match-v5
 const DDRAGON = '14.10.1'; // wersja Data Dragon (ikony championów/profili)
