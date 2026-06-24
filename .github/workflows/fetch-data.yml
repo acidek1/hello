@@ -20,7 +20,7 @@ jobs:
 
       - name: Fetch player data
         env:
-          RIOT_API_KEY: ${{ secrets.RIOT_API_KEY }}
+          RIOT_API_KEY: ${{ secrets.RIOTAPI }}
         run: node scripts/fetch-players.js
 
       - name: Commit & push
