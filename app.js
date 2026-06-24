@@ -2,9 +2,9 @@
 //  KONFIGURACJA — edytuj tylko tutaj
 // ============================================================
 const PLAYERS = [
-    { gameName: 'GraczJeden', tagLine: 'EUNE' },
-    { gameName: 'GraczDwa', tagLine: 'EUNE' },
-    { gameName: 'GraczTrzy', tagLine: 'EUNE' },
+    { gameName: 'lisdexamfetamine', tagLine: '140mg' },
+    { gameName: 'Franz Peter', tagLine: 'koyo' },
+    { gameName: 'head of family', tagLine: 'head' },
     // dodaj kolejnych graczy w tym samym formacie
 ];
 
